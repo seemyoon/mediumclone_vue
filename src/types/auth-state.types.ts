@@ -1,3 +1,3 @@
-import { RegisterInterface } from "@/interfaces/register.interface";
+import { IsSubmittingInterface } from "@/interfaces/isSubmitting.interface";
 
-export type State = RegisterInterface;
+export type State = IsSubmittingInterface;

@@ -1,3 +1,5 @@
 export interface RegisterInterface {
-  isSubmitting: boolean;
+  username: string;
+  email: string;
+  password: string;
 }
