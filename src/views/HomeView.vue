@@ -2,4 +2,4 @@
   <div>HomeView</div>
 </template>
 
-<script lang="ts"></script>
+<script ></script>

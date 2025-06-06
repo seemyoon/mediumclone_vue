@@ -1,13 +1,9 @@
 <template>
-  <div id="app">
-    <router-view />
+  <div>
+    <h1>Medium clone</h1>
+
+    <router-view></router-view>
   </div>
 </template>
 
-<script lang="ts">
-export default {
-  name: "App",
-};
-</script>
-
-<style scoped></style>
+<style></style>
